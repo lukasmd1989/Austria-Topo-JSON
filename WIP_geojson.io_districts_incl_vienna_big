@@ -1031,7 +1031,8 @@
       "type": "Feature",
       "properties": {
         "name": "Linz",
-        "iso": 40101
+        "iso": 40101,
+        "zip": 4020
       },
       "geometry": {
         "type": "Polygon",
@@ -17253,7 +17254,8 @@
       "type": "Feature",
       "properties": {
         "name": "Leonding",
-        "iso": 41012
+        "iso": 41012,
+        "zip": 4060
       },
       "geometry": {
         "type": "Polygon",
