@@ -216,7 +216,8 @@
       "type": "Feature",
       "properties": {
         "name": "Wien Leopoldstadt",
-        "iso": 90201
+        "iso": 90201,
+        "zip": 1020
       },
       "geometry": {
         "type": "Polygon",
@@ -258,7 +259,8 @@
       "type": "Feature",
       "properties": {
         "name": "Wien Währing",
-        "iso": 91801
+        "iso": 91801,
+        "zip": 1180
       },
       "geometry": {
         "type": "Polygon",
@@ -288,7 +290,8 @@
       "type": "Feature",
       "properties": {
         "name": "Wien Hernals",
-        "iso": 91701
+        "iso": 91701,
+        "zip": 1170
       },
       "geometry": {
         "type": "Polygon",
